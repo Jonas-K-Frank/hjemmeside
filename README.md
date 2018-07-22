@@ -1,2 +1,2 @@
 # 30 days challenge presentation
-I follow Wes Bos 30 days coding challenge and here I am going to show my progress
+I'm following [Wes Bos javascript 30](https://javascript30.com/)  *Build 30 things in 30 days with 30 tutorials*  and here I'm going to show my progress
